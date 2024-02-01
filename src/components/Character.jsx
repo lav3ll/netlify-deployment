@@ -12,6 +12,7 @@ const Character = (props) => {
         <li>Date of Death: {props.death}</li>
         <li>Race: {props.race}</li>
         <li>Realm: {props.realm}</li>
+        <li>Spouse: {props.spouse}</li>
       </ul>
     </div>
   );
